@@ -1,2 +1,2 @@
 *.ipynb_checkpoints/
-df_preprocessed.csv
+*.DS_Store
